@@ -124,7 +124,7 @@ namespace WpfApp_Task7
 
         private void NewExecuted(object sender, ExecutedRoutedEventArgs e)
         {
-
+            // Пока только заглушка //
         }
     }
 }
